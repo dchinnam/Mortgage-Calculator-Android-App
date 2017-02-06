@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculadora de hipoteca</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="MonthlyPayment">Mensualidad</string>
+    <string name="AmountBorrowed">Cantidad Prestada</string>
+    <string name="LoanTerm">Plazo del préstamo</string>
+    <string name="taxes">Impuestos y Seguros por mes</string>
+    <string name="calculate">Calcular</string>
+    <string name="Interest">Tasa de interés</string>
+</resources>
